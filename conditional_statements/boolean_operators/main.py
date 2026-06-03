@@ -1,0 +1,5 @@
+total_cost = 25.00
+discountEligible = 20.00
+discountEligible = total_cost >= 20.00
+print(discountEligible)
+print("Is the purchase eligible for a discount? true")
